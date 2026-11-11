@@ -1,0 +1,6 @@
+{
+  "resident": "b",
+  "swap_cost": 3,
+  "max_burst": 2,
+  "messages": ["a", "b", "a", "b"]
+}
